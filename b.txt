@@ -1,1 +1,1 @@
-one line in b.txt
+one line in b.txt davramut
